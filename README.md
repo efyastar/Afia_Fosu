@@ -113,7 +113,7 @@
         padding: 0.75rem 1rem;
       }
       nav a {
-        font-size: 0.5rem;
+        font-size: 0.6rem;
       }
       .section h3 {
         font-size: 1.5rem;
