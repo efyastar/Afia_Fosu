@@ -105,6 +105,23 @@
     .btn:hover {
       background: #4338ca;
     }
+    @media (max-width: 480px) {
+      header h1 {
+        font-size: 1.5rem;
+      }
+      nav {
+        padding: 0.75rem 1rem;
+      }
+      nav a {
+        font-size: 0.9rem;
+      }
+      .section h3 {
+        font-size: 1.5rem;
+      }
+      .card {
+        margin-bottom: 1.5rem;
+      }
+    }
   </style>
 </head>
 <body>
