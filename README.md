@@ -142,7 +142,7 @@
   <div class="section" id="about">
     <h3>About Me</h3>
     <div class="card">
-      <img src="IMG_1729.jpeg" alt="Afia Animah Fosu" class="profile-pic" />
+      <img src="IMG_3673.jpeg" alt="Afia Animah Fosu" class="profile-pic" />
       <p>Hi! I'm Afia, a student at Wesleyan University with a passion for software engineering, robotics, and building tech solutions for real-world problems. I'm driven by curiosity and creativity and I love collaborating with others to build impactful projects.</p>
     </div>
   </div>
